@@ -1,0 +1,328 @@
+{
+    "sections": {
+        "old_testament": {
+            "name": "Old Testament",
+            "groups": {
+                "pentateuch": {
+                    "name": "Pentateuch",
+                    "books": [
+                        {
+                            "name": "Genesis",
+                            "abbreviation": "Gen"
+                        },
+                        {
+                            "name": "Exodus",
+                            "abbreviation": "Exod"
+                        },
+                        {
+                            "name": "Leviticus",
+                            "abbreviation": "Lev"
+                        },
+                        {
+                            "name": "Numbers",
+                            "abbreviation": "Num"
+                        },
+                        {
+                            "name": "Deuteronomy",
+                            "abbreviation": "Deut"
+                        }
+                    ]
+                },
+                "historical": {
+                    "name": "Historical",
+                    "books": [
+                        {
+                            "name": "Joshua",
+                            "abbreviation": "Josh"
+                        },
+                        {
+                            "name": "Judges",
+                            "abbreviation": "Judg"
+                        },
+                        {
+                            "name": "Ruth",
+                            "abbreviation": "Ruth"
+                        },
+                        {
+                            "name": "First Samuel",
+                            "abbreviation": "1Sam"
+                        },
+                        {
+                            "name": "Second Samuel",
+                            "abbreviation": "2Sam"
+                        },
+                        {
+                            "name": "First Kings",
+                            "abbreviation": "1Kgs"
+                        },
+                        {
+                            "name": "Second Kings",
+                            "abbreviation": "2Kgs"
+                        },
+                        {
+                            "name": "First Chronicles",
+                            "abbreviation": "1Chr"
+                        },
+                        {
+                            "name": "Second Chronicles",
+                            "abbreviation": "2Chr"
+                        },
+                        {
+                            "name": "Ezra",
+                            "abbreviation": "Ezra"
+                        },
+                        {
+                            "name": "Nehemias",
+                            "abbreviation": "Neh"
+                        },
+                        {
+                            "name": "Esther",
+                            "abbreviation": "Esth"
+                        }
+                    ]
+                },
+                "wisdom": {
+                    "name": "Wisdom",
+                    "books": [
+                        {
+                            "name": "Job",
+                            "abbreviation": "Job"
+                        },
+                        {
+                            "name": "Psalms",
+                            "abbreviation": "Ps"
+                        },
+                        {
+                            "name": "Provebs",
+                            "abbreviation": "Prov"
+                        },
+                        {
+                            "name": "Ecclesiaste",
+                            "abbreviation": "sEccl"
+                        },
+                        {
+                            "name": "Song of Songs",
+                            "abbreviation": "Song"
+                        }
+                    ]
+                },
+                "major_prophets": {
+                    "name": "Major Prophets",
+                    "books": [
+                        {
+                            "name": "Isaiah",
+                            "abbreviation": "Isa"
+                        },
+                        {
+                            "name": "Jeremiah",
+                            "abbreviation": "Jer"
+                        },
+                        {
+                            "name": "Lamentations",
+                            "abbreviation": "Lam"
+                        },
+                        {
+                            "name": "Ezekiel",
+                            "abbreviation": "Ezek"
+                        },
+                        {
+                            "name": "Daniel",
+                            "abbreviation": "Dan"
+                        }
+                    ]
+                },
+                "minor_prophets": {
+                    "name": "Minor Prophets",
+                    "books": [
+                        {
+                            "name": "Hosea",
+                            "abbreviation": "Hos"
+                        },
+                        {
+                            "name": "Joel",
+                            "abbreviation": "Joel"
+                        },
+                        {
+                            "name": "Amos",
+                            "abbreviation": "Amos"
+                        },
+                        {
+                            "name": "Obadiah",
+                            "abbreviation": "Obad"
+                        },
+                        {
+                            "name": "Jonah",
+                            "abbreviation": "Jonahs"
+                        },
+                        {
+                            "name": "Micah",
+                            "abbreviation": "Mic"
+                        },
+                        {
+                            "name": "Nahum",
+                            "abbreviation": "Nah"
+                        },
+                        {
+                            "name": "Habakkuk",
+                            "abbreviation": "Hab"
+                        },
+                        {
+                            "name": "Zephaniah",
+                            "abbreviation": "Zeph"
+                        },
+                        {
+                            "name": "Haggai",
+                            "abbreviation": "Hag"
+                        },
+                        {
+                            "name": "Zechariah",
+                            "abbreviation": "Zech"
+                        },
+                        {
+                            "name": "Malachi",
+                            "abbreviation": "Mal"
+                        }
+                    ]
+                }
+            }
+        },
+        "new_testament": {
+            "name": "New Testament",
+            "groups": {
+                "The Gospels": {
+                    "name": "The Gospels",
+                    "books": [
+                        {
+                            "name": "Matthew",
+                            "abbreviation": "Matt"
+                        },
+                        {
+                            "name": "Mark",
+                            "abbreviation": "Mark"
+                        },
+                        {
+                            "name": "Luke",
+                            "abbreviation": "Luke"
+                        },
+                        {
+                            "name": "John",
+                            "abbreviation": "John"
+                        }
+                    ]
+                },
+                "narrative": {
+                    "name": "Narrative",
+                    "books": [
+                        {
+                            "name": "Acts",
+                            "abbreviation": "Acts"
+                        }
+                    ]
+                },
+                "pauline_letters": {
+                    "name": "Pauline Letters",
+                    "books": [
+                        {
+                            "name": "Romans",
+                            "abbreviation": "Rom"
+                        },
+                        {
+                            "name": "First Corinthians",
+                            "abbreviation": "1Cor"
+                        },
+                        {
+                            "name": "Second Corinthians",
+                            "abbreviation": "2Cor"
+                        },
+                        {
+                            "name": "Galatians",
+                            "abbreviation": "Gal"
+                        },
+                        {
+                            "name": "Ephesians",
+                            "abbreviation": "Eph"
+                        },
+                        {
+                            "name": "Philippians",
+                            "abbreviation": "Phil"
+                        },
+                        {
+                            "name": "Colossians",
+                            "abbreviation": "Col"
+                        },
+                        {
+                            "name": "First Thessalonians",
+                            "abbreviation": "1Thess"
+                        },
+                        {
+                            "name": "Second Thessalonians",
+                            "abbreviation": "2Thess"
+                        },
+                        {
+                            "name": "First Timothy",
+                            "abbreviation": "1Tim"
+                        },
+                        {
+                            "name": "Second Timothy",
+                            "abbreviation": "2Tim"
+                        },
+                        {
+                            "name": "Titus",
+                            "abbreviation": "Titus"
+                        },
+                        {
+                            "name": "Philemon",
+                            "abbreviation": "Phlm"
+                        }
+                    ]
+                },
+                "general_epistles": {
+                    "name": "General Epistles",
+                    "books": [
+                        {
+                            "name": "Hebrews",
+                            "abbreviation": "Heb"
+                        },
+                        {
+                            "name": "James",
+                            "abbreviation": "Jas"
+                        },
+                        {
+                            "name": "First Peter",
+                            "abbreviation": "1Pet"
+                        },
+                        {
+                            "name": "Second Peter",
+                            "abbreviation": "2Pet"
+                        },
+                        {
+                            "name": "First John",
+                            "abbreviation": "1John"
+                        },
+                        {
+                            "name": "Second John",
+                            "abbreviation": "2John"
+                        },
+                        {
+                            "name": "Third John",
+                            "abbreviation": "3John"
+                        },
+                        {
+                            "name": "Jude",
+                            "abbreviation": "Jude"
+                        }
+                    ]
+                },
+                "apocalyptic_epistle": {
+                    "name": "Apocalyptic Epistle",
+                    "books": [
+                        {
+                            "name": "Revelation",
+                            "abbreviation": "Rev"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
