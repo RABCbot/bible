@@ -1,2 +1,2 @@
 # Bible
-Static GitHub pages hosting different Bible related JSON files
+Static GitHub page hosting different Bible related JSON files
