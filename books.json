@@ -1,9 +1,9 @@
 {
-    "sections": {
-        "old_testament": {
+    "sections": [
+        {
             "name": "Old Testament",
-            "groups": {
-                "pentateuch": {
+            "groups": [
+                {
                     "name": "Pentateuch",
                     "books": [
                         {
@@ -28,7 +28,7 @@
                         }
                     ]
                 },
-                "historical": {
+                {
                     "name": "Historical",
                     "books": [
                         {
@@ -81,7 +81,7 @@
                         }
                     ]
                 },
-                "wisdom": {
+                {
                     "name": "Wisdom",
                     "books": [
                         {
@@ -106,7 +106,7 @@
                         }
                     ]
                 },
-                "major_prophets": {
+                {
                     "name": "Major Prophets",
                     "books": [
                         {
@@ -131,7 +131,7 @@
                         }
                     ]
                 },
-                "minor_prophets": {
+                {
                     "name": "Minor Prophets",
                     "books": [
                         {
@@ -184,12 +184,12 @@
                         }
                     ]
                 }
-            }
+            ]
         },
-        "new_testament": {
+        {
             "name": "New Testament",
-            "groups": {
-                "The Gospels": {
+            "groups": [
+                {
                     "name": "The Gospels",
                     "books": [
                         {
@@ -210,7 +210,7 @@
                         }
                     ]
                 },
-                "narrative": {
+                {
                     "name": "Narrative",
                     "books": [
                         {
@@ -219,7 +219,7 @@
                         }
                     ]
                 },
-                "pauline_letters": {
+                {
                     "name": "Pauline Letters",
                     "books": [
                         {
@@ -276,7 +276,7 @@
                         }
                     ]
                 },
-                "general_epistles": {
+                {
                     "name": "General Epistles",
                     "books": [
                         {
@@ -313,7 +313,7 @@
                         }
                     ]
                 },
-                "apocalyptic_epistle": {
+                {
                     "name": "Apocalyptic Epistle",
                     "books": [
                         {
@@ -322,7 +322,7 @@
                         }
                     ]
                 }
-            }
+            ]
         }
-    }
+    ]
 }
