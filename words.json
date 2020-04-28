@@ -1,14 +1,19 @@
 {
     "words": [
         {
-            "word": "gregoreuo",
+            "word": {
+                "spanish": "velar",
+                "english": "watch"
+            },
+            "transliteration": "gregoreuo",
             "strong_number": "G1127",
             "part_of_speech": "verb",
             "definition": {
-                "spanish": " mantener despierto, i.e. vigilar (lit. o fig.):—velar, vigilante"
+                "spanish": "mantener despierto, vigilar, velar, vigilante",
+                "english":"to watch, give strict attention to, be cautious, active"
             },
-            "references": [
-                "Matthew 24:42",
+            "key_verse":"Matthew 24:42",
+            "verses": [
                 "Matthew 25:13",
                 "Matthew 26:41",
                 "Mark 13:33-37",
@@ -18,6 +23,36 @@
                 "Colossians 4:2",
                 "1 Thessalonians 5:4-6",
                 "1 Peter 5"
+            ]
+        },
+        {
+            "word": {
+                "spanish": "orar",
+                "english": "pray"
+            },
+            "transliteration": "proseuchomai ",
+            "strong_number": "G4336",
+            "part_of_speech": "verb",
+            "definition": {
+                "spanish": "",
+                "english":"to offer prayers, to pray"
+            },
+            "key_verse":"",
+            "verses": [
+            ]
+        },
+        {
+            "word": {
+                "spanish": "",
+                "english": ""
+            },
+            "transliteration": "",
+            "strong_number": "",
+            "part_of_speech": "",
+            "definition": {
+                "spanish": ""
+            },
+            "references": [
             ]
         }
     ]
