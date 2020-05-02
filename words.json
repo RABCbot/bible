@@ -5,6 +5,7 @@
                 "spanish": "Orar",
                 "english": "Pray"
             },
+            "language": "Greek",
             "transliteration": "proseuchomai",
             "strong_number": "G4336",
             "occurrences": 87,
@@ -31,6 +32,7 @@
                 "spanish": "Velar",
                 "english": "Watch"
             },
+            "language": "Greek",
             "transliteration": "gregoreuo",
             "strong_number": "G1127",
             "use": "verb",
