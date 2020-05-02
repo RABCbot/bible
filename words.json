@@ -1,6 +1,21 @@
 {
     "words": [
-        {
+{
+            "word": {
+                "spanish": "Orar",
+                "english": "Pray"
+            },
+            "transliteration": "proseuchomai",
+            "strong_number": "G4336",
+            "occurrences": 87,
+            "part_of_speech": "verb",
+            "definition": {
+                "spanish": "orar a Dios, suplicar, adorar, hacer oración, pedir",
+                "english":"to offer prayers, to pray"
+            },
+            "key_verse":"Matthew 6:6",
+            "verses": []
+        },        {
             "word": {
                 "spanish": "Velar",
                 "english": "Watch"
