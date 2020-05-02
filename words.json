@@ -1,6 +1,6 @@
 {
     "words": [
-{
+        {
             "word": {
                 "spanish": "Orar",
                 "english": "Pray"
@@ -11,11 +11,12 @@
             "use": "verb",
             "definition": {
                 "spanish": "orar a Dios, suplicar, adorar, hacer oración, pedir",
-                "english":"to offer prayers, to pray"
+                "english": "to offer prayers, to pray"
             },
-            "key_verse":"Matthew 6:6",
+            "key_verse": "Matthew 6:6",
             "verses": []
-        },        {
+        },
+        {
             "word": {
                 "spanish": "Velar",
                 "english": "Watch"
@@ -25,9 +26,9 @@
             "use": "verb",
             "definition": {
                 "spanish": "mantener despierto, vigilar, velar, vigilante",
-                "english":"to watch, give strict attention to, be cautious, active"
+                "english": "to watch, give strict attention to, be cautious, active"
             },
-            "key_verse":"Matthew 24:42",
+            "key_verse": "Matthew 24:42",
             "verses": [
                 "Matthew 25:13",
                 "Matthew 26:41",
@@ -51,11 +52,10 @@
             "ocurrences": "",
             "definition": {
                 "spanish": "",
-                "english":""
+                "english": ""
             },
-            "key_verse":"",
-            "verses": [
-            ]
+            "key_verse": "",
+            "verses": []
         },
         {
             "word": {
@@ -68,8 +68,7 @@
             "definition": {
                 "spanish": ""
             },
-            "references": [
-            ]
+            "references": []
         }
     ]
 }
