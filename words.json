@@ -8,7 +8,7 @@
             "transliteration": "proseuchomai",
             "strong_number": "G4336",
             "occurrences": 87,
-            "part_of_speech": "verb",
+            "use": "verb",
             "definition": {
                 "spanish": "orar a Dios, suplicar, adorar, hacer oración, pedir",
                 "english":"to offer prayers, to pray"
@@ -22,7 +22,7 @@
             },
             "transliteration": "gregoreuo",
             "strong_number": "G1127",
-            "part_of_speech": "verb",
+            "use": "verb",
             "definition": {
                 "spanish": "mantener despierto, vigilar, velar, vigilante",
                 "english":"to watch, give strict attention to, be cautious, active"
