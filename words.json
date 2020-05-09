@@ -5,15 +5,24 @@
                 "spanish": "pedir",
                 "english": "ask"
             },
+            "language": "Greek",
             "transliteration": "aiteo",
             "strong_number": "154",
             "occurrences": 71,
-            "part_of_speech": "verb",
+            "use": "verb",
             "definition": {
                 "spanish": "pedir, demandar"
             },
             "key_verse": "John 14:13",
-            "references": ["Mathew 5:42", "Mathew 6:8", "Mathew 7:7", "Luke 6:30", "John 4:10", "James 1:5", "1 John 5:14-15"]
+            "references": [
+                "Mathew 5:42",
+                "Mathew 6:8",
+                "Mathew 7:7",
+                "Luke 6:30",
+                "John 4:10",
+                "James 1:5",
+                "1 John 5:14-15"
+            ]
         },
         {
             "word": {
@@ -73,28 +82,15 @@
                 "spanish": "",
                 "english": ""
             },
-            "transliteration": " ",
-            "strong_number": "",
-            "use": "",
-            "ocurrences": "",
-            "definition": {
-                "spanish": "",
-                "english": ""
-            },
-            "key_verse": "",
-            "verses": []
-        },
-        {
-            "word": {
-                "spanish": "",
-                "english": ""
-            },
+            "language": "",
             "transliteration": "",
             "strong_number": "",
-            "part_of_speech": "",
+            "occurrences": 0,
+            "use": "",
             "definition": {
                 "spanish": ""
             },
+            "key_verse": "",
             "references": []
         }
     ]
