@@ -2,6 +2,21 @@
     "words": [
         {
             "word": {
+                "spanish": "pedir",
+                "english": "ask"
+            },
+            "transliteration": "aiteo",
+            "strong_number": "154",
+            "occurrences": 71,
+            "part_of_speech": "verb",
+            "definition": {
+                "spanish": "pedir, demandar"
+            },
+            "key_verse": "John 14:13",
+            "references": []
+        },
+        {
+            "word": {
                 "spanish": "Orar",
                 "english": "Pray"
             },
