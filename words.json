@@ -2,6 +2,21 @@
     "words": [
         {
             "word": {
+                "spanish": "rogar",
+                "english": "beg"
+            },
+            "language": "Greek",
+            "transliteration": "deomai",
+            "strong_number": "G1189",
+            "occurrences": 22,
+            "use": "verb",
+            "definition": {
+                "spanish": "Orar, rogar, suplicar, pedir por una necesidad"
+            },
+            "key_verse": "Luke 5:12",
+            "references": ["Luke 9:38-39", "Mathew 9:35-38", "Luke 22:31-34", "Acts 4:31"]
+        },{
+            "word": {
                 "spanish": "pedir",
                 "english": "ask"
             },
