@@ -2,6 +2,32 @@
     "words": [
         {
             "word": {
+                "spanish": "invocar",
+                "english": "call out"
+            },
+            "language": "Hebrew",
+            "transliteration": "qara'",
+            "strong_number": "G7121",
+            "occurrences": 733,
+            "use": "verb",
+            "definition": {
+                "spanish": "Intimar, invocar, llamar, pedir, clamar"
+            },
+            "key_verse": "Genesis 4:26",
+            "references": [
+                "Genesis 1:5",
+                "Genesis 3:9",
+                "Genesis 12:8",
+                "Deuteronomy 4:8",
+                "1 Samuel 12: 18",
+                "Psalms 18:3",
+                "1 Kings 18:24",
+                "2 Kings 20:11",
+                "Psalms 17:6"
+            ]
+        },
+        {
+            "word": {
                 "spanish": "rogar",
                 "english": "beg"
             },
