@@ -1,6 +1,22 @@
 {
     "words": [
-        {
+         {
+            "word": {
+                "spanish": "paz",
+                "english": "peace"
+            },
+            "language": "Hebrew",
+            "transliteration": "Shalam",
+            "strong_number": "H7999",
+            "occurrences": 116,
+            "use": "verb",
+            "definition": {
+                "spanish": "Idea de estar seguro, estar completo. Hacer la paz, ser amistoso, reciprocar, dar el pago, devolver, hacer enmiendas, ofrecer, pacífico, paga, pagar el daño, próspero, recompensar, resarcir, restitución, restituir, retribución, retribuir."
+            },
+            "key_verse": "Philippians 4:7",
+            "references": [
+            ]
+        },{
             "word": {
                 "spanish": "invocar",
                 "english": "call out"
