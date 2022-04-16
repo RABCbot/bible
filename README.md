@@ -1,10 +1,10 @@
 Collection of Bible info formatted as JSON
 
 
-## King James JSON
+### King James JSON
 https://github.com/churchstudio-org/openbible/tree/main/en_US/books
 
-## Miracle list: 
+### Miracle list: 
 https://www.naves-topical-bible.com/MIRACLES.html
 http://www.lainosint.com/download/faith
 
